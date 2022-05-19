@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=lfernand1&color=blueviolet&style=flat">
   
-## Heey it's Larissa Fernanda here! I'm a fullstack development student at <a href="https://blueedtech.com.br/">Blue EDtech </a>!
+## Heey it's Larissa Fernanda here! I'm a web development student at <a href="https://blueedtech.com.br/">Blue EDtech </a>!
 
 ### :hourglass: GitHub Status
 
@@ -34,4 +34,4 @@
 </div>
  
   ### 👽 Bonus  
-  ###### I'm totally obsessed with art, music, photography and technology.
+  ##### I'm totally obsessed with art, music, photography and technology.
